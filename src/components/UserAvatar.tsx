@@ -14,9 +14,9 @@ export default function UserAvatar() {
 
 const styles = StyleSheet.create({
   AvatarImage: {
-    height: s(32),
-    width: s(32),
-    borderRadius: s(16),
+    height: s(46),
+    width: s(46),
+    borderRadius: s(40),
     marginBottom: 20,
   },
 });
